@@ -1,3 +1,8 @@
+---
+title: "10 things I've learned about programming"
+date: 2021-03-10
+---
+
 <head>
   You never thought that you would be here, but neither did I.
   </head>
